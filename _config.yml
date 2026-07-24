@@ -10,8 +10,8 @@ title: NME Repository Template
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Shared template for a neutrinoless double beta decay matrix element repository.
-baseurl: ""
-url: ""
+baseurl: "/webpage"
+url: "https://bb-nme-evals.github.io"
 
 include:
   - .htaccess
