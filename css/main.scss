@@ -46,21 +46,11 @@ firstp {
   max-width: 1000px; /* or 950px */
 }
 
-/* Home, News */
-#newsid p {
-	text-align: left;
-}
-
 #homeidtmp h1 {
 	text-align: center;
 }
 
-#newsid img {
-	margin-top: 6px;
-	margin-bottom: 6px;
-}
-
-/* Team & Publications */
+/* Image layout helpers */
 #gridid img { margin: 16px 22px 6px 0; border-radius:10%; box-shadow: 2px 2px 5px #888888 }
 #homeid img { margin: 0 0 0 0; border-radius:5%; box-shadow: 0px 0px 0px #888888 }
 #picid img { margin: 6px 3px 60px 6px; border-radius:1%; box-shadow: 2px 2px 5px #888888 }
